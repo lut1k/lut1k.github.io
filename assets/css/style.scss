@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-footer {
+  text-align: center;
+  margin: 20px 0;
+
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      display: inline;
+      margin-right: 15px;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+
+    a {
+      text-decoration: none;
+      color: #0366d6;  // Adjust the color to fit your theme
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.footer-note {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666; // Adjust the color to fit your theme
+}
