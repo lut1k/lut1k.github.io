@@ -1,1 +1,0 @@
-Aliaksandr Liutsko developer page
