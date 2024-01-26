@@ -35,8 +35,6 @@ plugins:
 # GitHub Pages settings
 repository: lut1k/lut1k.github.io
 
-show_downloads: false
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
