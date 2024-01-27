@@ -2,12 +2,11 @@
 layout: default
 ---
 
-# Contact Us
+# Contact
 
-For support or inquiries, please reach out to us:
+For support or inquiries, please reach out to me:
 
 - Email: alexandr.liutsko@gmail.com
 - Phone: +971 50 583 1793
-- Address: Address Residences Opera Dubai, Tower 2
 
 We are here to help!
