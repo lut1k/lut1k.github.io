@@ -30,6 +30,5 @@ Here's a list of my games, each with unique experiences and stories:
 For more information about how we handle user data and the terms of using our games, please visit:
 
 - [Privacy Policy](/privacy-policy)
-- [Terms of Use](/terms-of-use)
 
 Thank you for your interest in my games!

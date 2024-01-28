@@ -4,26 +4,28 @@ layout: default
 
 # Privacy Policy
 
-_Last Updated: 26.01.2024
+_Last Updated: 28.01.2024
 
 ## Introduction
 
-Your privacy is important to us. This privacy policy explains how [Your Game Name] collects, uses, and protects your personal information.
+This privacy policy applies to all app distributed by Aliaksandr Liutsko on different stores. By installing 
+any of the app from Aliaksandr Liutsko you consent to our privacy policy.
 
 ## Information Collection
 
-We collect the following types of information:
+We do not collect any personal information form user like user email, contact number, location etc.
 
-- Personal Identification Information
-- Usage Data
+## Disclosing your personal information
 
-## Use of Information
+We respect your privacy. We do not collect any personal user information.
 
-The information we collect is used for:
+## Children and privacy
 
-- Improving game experience
-- Customer support
-- ...
+Children can play & learn without any personal information being collected.
+
+## Location
+
+We do not use or collect your precise geographic location.
 
 ## Contact Us
 
